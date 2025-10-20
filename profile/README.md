@@ -3,8 +3,6 @@
 
 Betaflight is flight controller software (firmware) and associated software used to configure and fly multi-rotor craft and fixed wing craft.
 
-## Status:
-
 ### Firmware: 
 [![Latest version](https://img.shields.io/github/v/release/betaflight/betaflight)](https://github.com/betaflight/betaflight/releases) 
 [![Build](https://img.shields.io/github/actions/workflow/status/betaflight/betaflight/push.yml?branch=master)](https://github.com/betaflight/betaflight/actions/workflows/push.yml) 
