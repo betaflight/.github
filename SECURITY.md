@@ -16,12 +16,15 @@ a fix is available puts users at risk.
 
 Instead, use one of the private channels below.
 
-### 1. GitHub private vulnerability reporting (preferred)
+### 1. GitHub private vulnerability reporting (preferred, where enabled)
 
-Each Betaflight repository has private reporting enabled:
+Many Betaflight repositories have GitHub's private vulnerability reporting
+enabled. Where it is available:
 
 1. Open the affected repository on GitHub.
 2. Go to the **Security** tab → **Advisories** → **Report a vulnerability**.
+   If you do not see a **Report a vulnerability** button, it is not enabled for
+   that repository — use email instead.
 3. Fill in the form with as much detail as you can (see below).
 
 This keeps the report private to the maintainers and lets us collaborate with
@@ -29,10 +32,12 @@ you on a fix and a coordinated advisory.
 
 ### 2. Email
 
-If you cannot use GitHub, or your report concerns infrastructure rather than a
-specific repository, email:
+If private reporting is not enabled on the repository, you cannot use GitHub, or
+your report concerns infrastructure rather than a specific repository, email:
 
 **security@betaflight.com**
+
+Email always works as a fallback, regardless of which repository is affected.
 
 If you wish to encrypt your report, ask us for a current PGP key in an initial
 (unencrypted) message containing no sensitive details.
