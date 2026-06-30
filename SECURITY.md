@@ -84,7 +84,7 @@ decide.
 
 ## Our commitment (coordinated disclosure)
 
-As a volunteer project we cannot guarantee fixed response times, but we aim to:
+As a volunteer project, we cannot guarantee fixed response times, but we aim to:
 
 - **Acknowledge** your report within **5 business days**.
 - Provide an **initial assessment** (including whether we consider it in scope)
