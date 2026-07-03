@@ -25,8 +25,8 @@ users should upgrade to a supported release. The legacy firmware `4.5.x` series
 is retained as a deliberate exception because of its widespread use, and will
 continue to receive security backports for as long as that remains practical.
 
-Where a repository maintains its own `SECURITY.md`, we recommend it list the
-concrete versions it currently supports.
+For repositories that maintain their own `SECURITY.md`, we will, where
+applicable, list the concrete versions currently supported.
 
 ## Reporting a vulnerability
 
