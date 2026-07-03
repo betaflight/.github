@@ -17,16 +17,16 @@ supported firmware release always has a matching supported app release.
 
 We provide security support for the **two most recent major (year) releases**.
 Because the major is the year, this is a rolling window of roughly the last two
-years. Security fixes are developed on `master`/`main` and backported to each
-supported release series as point releases.
+years. Security fixes are developed on each repository's default branch and
+backported to each supported release series as point releases.
 
 Older series are no longer maintained and will not receive security updates;
 users should upgrade to a supported release. The legacy firmware `4.5.x` series
 is retained as a deliberate exception because of its widespread use, and will
 continue to receive security backports for as long as that remains practical.
 
-Each repository's `SECURITY.md` lists the concrete versions it currently
-supports.
+Where a repository maintains its own `SECURITY.md`, it may list the concrete
+versions it currently supports.
 
 ## Reporting a vulnerability
 
