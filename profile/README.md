@@ -24,3 +24,6 @@ Betaflight is flight controller software (firmware) and associated software used
 ### Other: 
 [![Join us on Discord!](https://img.shields.io/discord/868013470023548938)](https://discord.gg/n4E6ak4u3c)
 
+### Community: 
+[Code of Conduct](https://github.com/betaflight/.github/blob/main/CODE_OF_CONDUCT.md) | [Security Policy](https://github.com/betaflight/.github/blob/main/SECURITY.md)
+
