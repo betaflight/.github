@@ -24,6 +24,22 @@ Betaflight is flight controller software (firmware) and associated software used
 ### Other: 
 [![Join us on Discord!](https://img.shields.io/discord/868013470023548938)](https://discord.gg/n4E6ak4u3c)
 
+### Release Schedule: 
+
+| Date       | Release | Stage             | Status    |
+| ---------- | ------- | ----------------- | --------- |
+| 26-12-2025 | 2025.12 | Release           | Completed |
+| 01-06-2026 | 2026.6  | Release           | Completed |
+| 01-11-2026 | 2026.12 | Release Candidate |           |
+| 01-12-2026 | 2026.12 | Release           |           |
+| 01-05-2027 | 2027.6  | Release Candidate |           |
+| 01-06-2027 | 2027.6  | Release           |           |
+
+Two major releases per year, targeting June and December, using CalVer (`YYYY.M.PATCH`). Development phases:
+
+- **Alpha**: new feature development, available shortly after a stable release.
+- **Release Candidate (RC)**: a one-month period of final stabilisation and testing before release.
+
 ### Community: 
 [Code of Conduct](https://github.com/betaflight/.github/blob/main/CODE_OF_CONDUCT.md) | [Security Policy](https://github.com/betaflight/.github/blob/main/SECURITY.md)
 
