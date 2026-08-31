@@ -41,5 +41,5 @@ Two major releases per year, targeting June and December, using CalVer (`YYYY.M.
 - **Release Candidate (RC)**: a one-month period of final stabilisation and testing before release.
 
 ### Community: 
-[Code of Conduct](https://github.com/betaflight/.github/blob/main/CODE_OF_CONDUCT.md) | [Security Policy](https://github.com/betaflight/.github/blob/main/SECURITY.md)
+[Code of Conduct](https://github.com/betaflight/.github/blob/main/CODE_OF_CONDUCT.md) | [Security Policy](https://github.com/betaflight/.github/blob/main/SECURITY.md) | [AI Contribution Policy](https://github.com/betaflight/.github/blob/main/AI_POLICY.md)
 
