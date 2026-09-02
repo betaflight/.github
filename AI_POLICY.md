@@ -30,5 +30,4 @@ project has. Pull requests that show no sign of human judgement will be closed,
 and submitting them repeatedly is handled under the
 [Code of Conduct](CODE_OF_CONDUCT.md).
 
-Used well, these tools are welcome, and plenty of good work already arrives that
-way. Used to skip the part where someone understands the change, they are not.
+AI tools are welcome when they help a contributor do good work. They are not a substitute for understanding that work. If you submit a change, you are expected to have reviewed it, understood it, and taken responsibility for it yourself—not to rely on the tool to do that on your behalf.
