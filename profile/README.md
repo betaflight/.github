@@ -3,7 +3,7 @@
 
 Betaflight is free, open-source flight control software for every kind of drone, from racing and freestyle to cinematic filming, long range, micros and wings.
 
-**We fix Betaflight. Manufacturers support their hardware. Pilots own their builds.** See [who looks after what](https://betaflight.com/docs/wiki/getting-started/hardware-support) and where to get help.
+**We fix Betaflight. Manufacturers support their hardware. Pilots own their builds.** See [who looks after what](https://betaflight.com/support) and where to get help.
 
 ### Firmware: 
 [![Latest version](https://img.shields.io/github/v/release/betaflight/betaflight)](https://github.com/betaflight/betaflight/releases) 
