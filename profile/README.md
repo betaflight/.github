@@ -1,7 +1,9 @@
 ![Betaflight](images/bf_logo.svg#gh-light-mode-only)
 ![Betaflight](images/bf_logo_dark.svg#gh-dark-mode-only)
 
-Betaflight is flight controller software (firmware) and associated software used to configure and fly multi-rotor craft and fixed wing craft.
+Betaflight is free, open-source flight control software for every kind of drone, from racing and freestyle to cinematic filming, long range, micros and wings.
+
+**We fix Betaflight. Manufacturers support their hardware. Pilots own their builds.** See [who looks after what](https://betaflight.com/docs/wiki/getting-started/hardware-support) and where to get help.
 
 ### Firmware: 
 [![Latest version](https://img.shields.io/github/v/release/betaflight/betaflight)](https://github.com/betaflight/betaflight/releases) 
@@ -22,7 +24,7 @@ Betaflight is flight controller software (firmware) and associated software used
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ### Other: 
-[![Join us on Discord!](https://img.shields.io/discord/868013470023548938)](https://discord.gg/n4E6ak4u3c)
+[![Join us on Discord!](https://img.shields.io/discord/868013470023548938)](https://discord.betaflight.com/invite)
 
 ### Release Schedule: 
 
