@@ -22,6 +22,7 @@ Examples of behavior that contributes to a positive environment for our communit
 
 Examples of unacceptable behavior include:
 
+* Discussion or videos of drone hardware used as weaponry or to cause harm in general
 * The use of sexualized language or imagery, and sexual attention or advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
